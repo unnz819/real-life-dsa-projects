@@ -9,9 +9,8 @@ Learn more about [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃
 
 You can contribute to this project in two quick and painless ways:
 
-1. **Create a Simple Project:** Build a simple project using any Data Structures and Algorithms (DSA) concept of your choice.
-2. **Create a "Hello, World" Script:** Develop a "Hello, World" script in a programming language of your choice.
+**Create a Simple Project:** Build a simple project using any Data Structures and Algorithms (DSA) concept of your choice.
 
-Feel free to choose one or both of these options, make a pull request for your work, and then wait for it to be merged!
+Make a pull request for your work, and then wait for it to be merged!
 
 Happy hacking and contributing to open source! 🚀
