@@ -7,7 +7,7 @@ Learn more about [Hacktoberfest](https://hacktoberfest.digitalocean.com/) 🎃
 
 ## How to Contribute to this Project💡
 
-You can contribute to this project in two quick and painless ways:
+You can contribute to this project by the following way:
 
 **Create a Simple Project:** Build a simple project using any Data Structures and Algorithms (DSA) concept of your choice.
 
